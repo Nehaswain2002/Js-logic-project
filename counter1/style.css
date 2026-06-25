@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+  margin: 10em;
+}
+.count{
+  font-size: 3em;
+}
+button{
+  background-color: cyan;
+  padding: 10px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.box{
+  border: none;
+  background-color: antiquewhite;
+}
+input{
+  height: 2em;
+  width: 4em;
+  font-style: 1rem;
+  border: 2px solid black;
+  box-sizing: border-box;
+}
+.changeby{
+  height: 2em;
+  width: 5em;
+}
+.changeby1{
+   padding-top: 1em;
+  padding-bottom: 1em;
+}
